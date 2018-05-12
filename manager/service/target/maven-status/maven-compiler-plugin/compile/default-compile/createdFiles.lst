@@ -1,0 +1,10 @@
+com\jxp\taotao\service\content\impl\ContentServiceImpl.class
+com\jxp\taotao\service\item\ItemService.class
+com\jxp\taotao\service\itemcat\ItemCatService.class
+com\jxp\taotao\service\upload\impl\PictureServiceImpl.class
+com\jxp\taotao\service\itemcat\impl\ItemCatServiceImpl.class
+com\jxp\taotao\service\item\impl\ItemServiceImpl.class
+com\jxp\taotao\service\content\impl\CategoryServiceImpl.class
+com\jxp\taotao\service\content\CategoryService.class
+com\jxp\taotao\service\content\ContentService.class
+com\jxp\taotao\service\upload\PictureService.class

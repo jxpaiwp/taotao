@@ -1,0 +1,10 @@
+com\jxp\taotao\utils\ExceptionUtil.class
+com\jxp\taotao\utils\FtpUtil.class
+com\jxp\taotao\utils\TaotaoResult.class
+com\jxp\taotao\easyui\DataGridResult.class
+com\jxp\taotao\utils\IDUtils.class
+com\jxp\taotao\easyui\TreeNode.class
+com\jxp\taotao\utils\EasyUIResult.class
+com\jxp\taotao\utils\JsonUtils.class
+com\jxp\taotao\utils\PictureResult.class
+com\jxp\taotao\utils\HttpClientUtil.class

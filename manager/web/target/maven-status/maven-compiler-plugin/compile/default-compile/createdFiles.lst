@@ -1,0 +1,6 @@
+com\jxp\taotao\controller\upload\UploadController.class
+com\jxp\taotao\controller\content\CategoryController.class
+com\jxp\taotao\controller\item\ItemController.class
+com\jxp\taotao\controller\content\ContentController.class
+com\jxp\taotao\controller\item\PageController.class
+com\jxp\taotao\controller\itemcat\ItemCatController.class
